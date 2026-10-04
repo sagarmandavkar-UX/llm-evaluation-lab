@@ -1,3 +1,9 @@
 {
-  "cohen_kappa": 0.8473116408560988
+  "cohen_kappa": 0.8242741648446636,
+  "data_quality": {
+    "rows": 720,
+    "items": 240,
+    "models": 3,
+    "complete_model_item_matrix": true
+  }
 }
