@@ -1,0 +1,13 @@
+model,error_type,errors
+balanced,calculation,17
+balanced,citation,8
+balanced,factual,15
+balanced,instruction,14
+compact,calculation,12
+compact,citation,16
+compact,factual,16
+compact,instruction,13
+reasoning,calculation,14
+reasoning,citation,9
+reasoning,factual,9
+reasoning,instruction,9
